@@ -36,6 +36,8 @@ react-native run-ios || react-native run-android
 
 ## Screenshot
 
-<img alt="Screenshot Main" src=".github/screenshot-main.png" />
-<img alt="Screenshot User" src=".github/screenshot-user.png" />
-<img alt="Screenshot Repository" src=".github/screenshot-repository.png" />
+<h1>
+<img alt="Screenshot Main" src=".github/screenshot-main.png" width="200" />
+<img alt="Screenshot User" src=".github/screenshot-user.png"  width="200" />
+<img alt="Screenshot Repository" src=".github/screenshot-repository.png" width="200" />
+</h1>
